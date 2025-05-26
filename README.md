@@ -18,7 +18,7 @@ This project uses machine learning to predict whether a customer will visit an o
 - `email_marketing.ipynb` – Data cleaning, EDA, and model training notebook
 
 ## 📊 Demo
-Live Streamlit App → [Insert Link]  
+Live Streamlit App → [Streamlit App](https://email-marketing-random-forest.streamlit.app/)  
 Tableau Dashboard → [Email Marketing - Exploratory Data Analysis](https://public.tableau.com/views/EmailMarketing-ExploratoryAnalysis/EmailMarketing-EDADashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🔧 Tech Stack
